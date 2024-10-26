@@ -5,3 +5,5 @@ This iOS project focuses on integrating MapKit to provide a user-friendly map-ba
 To achieve this, it consumes data from a free public API and displays the bathrooms on the map with custom markers. Users can explore the nearest bathrooms based on their current location, thanks to location services integration.
 
 This project was an excellent opportunity to deepen my knowledge in Swift, MapKit, and API consumption, while enhancing usability for city residents and visitors.
+
+https://github.com/FabiolaCop33/restroom-finder-ios-app/blob/main/resroom-finder.png
