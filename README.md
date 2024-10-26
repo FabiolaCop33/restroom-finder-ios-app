@@ -6,4 +6,6 @@ To achieve this, it consumes data from a free public API and displays the bathro
 
 This project was an excellent opportunity to deepen my knowledge in Swift, MapKit, and API consumption, while enhancing usability for city residents and visitors.
 
-https://github.com/FabiolaCop33/restroom-finder-ios-app/blob/main/resroom-finder.png
+<img src="https://github.com/FabiolaCop33/restroom-finder-ios-app/blob/main/resroom-finder.png" width="300">
+
+
